@@ -1,0 +1,27 @@
+.header {
+    color: rgb(9, 0, 133);
+    background-color: lightgray;
+    padding: 50px;
+}
+*{
+    margin: 0;
+}
+
+ul{
+
+    display: flex;
+    gap:1em ;
+   
+}
+.nav{
+    position: absolute;
+    right: 5em;
+}
+li{
+    
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+}
